@@ -1,0 +1,48 @@
+{
+ "tree": [
+ {
+ "name": "ombu",
+ "color": "dark green",
+ "drought": 50,
+ "shadow": 150
+ },
+ {
+ "name": "discoria",
+ "color": "light green",
+ "drought": 75,
+ "shadow": 50
+ },
+ {
+ "name": "white mosquito",
+ "color": "lilac",
+ "drought": 80,
+ "shadow": 50
+ }
+ ],
+ "grass": [
+ {
+ "name": "fescue",
+ "color": "dark beige",
+ "drought": 40,
+ "shadow": 2
+ },
+ {
+ "name": "laconose",
+ "color": "dark golden",
+ "drought": 40,
+ "shadow": 2
+ },
+ {
+ "name": "grasshopper",
+ "color": "dark green",
+ "drought": 40,
+ "shadow": 2
+ },
+ {
+ "name": "thistle",
+ "color": "light beige",
+ "drought": 30,
+ "shadow": 1
+ }
+ ]
+}
